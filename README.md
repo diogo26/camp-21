@@ -33,3 +33,7 @@ Camp's folder structure
 ## Associações
 
 - É possível fazer as associações entre as tabelas utilizando o sequelize, é preciso fazer uma configuração nas migrations, utilizando `references`, e nos models utilizando `belongs`, `hasMany` e `hasOne`. Neste [link](https://medium.com/@andrewoons/how-to-define-sequelize-associations-using-migrations-de4333bf75a7) tem um artigo que explica como que funciona essas associações e o que é necessario fazer para elas funcionarem. Em caso de mais duvidas, na documentação do [Sequelize](https://sequelize.org/master/) tem explicações mais detalhadas de como funciona.
+
+# Postman
+
+- Este é o link da collection que criei no postman com as rotas de login e listagem de usuários, para utiliza-la basta abrir o postman e importar via link e colocar o seguinte link `https://www.getpostman.com/collections/baa8ef10267688f8fa9e`.
