@@ -2,6 +2,10 @@
 
 Camp's folder structure
 
+# Observações
+
+- No arquivo .env, os valores das variáveis precisam ser de acordo com as que você possui no seu ambiante, o arquivo .env.example é so um modelo de quais variáveis são necessárias para o projeto.
+
 # Sequelize
 
 - O Sequelize é o ORM que utilizamos nesse projeto, ele nos ajuda facilitando a comunicação entre nossa aplicação e o banco de dados. Ele possui uma documentação bem completa que pode ser consultada no link abaixo.
